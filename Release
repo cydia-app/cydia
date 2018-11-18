@@ -1,0 +1,13 @@
+Origin: 力天赚
+Label: 力天赚
+Suite: stable
+Version: 1.0
+Codename: litianzhuanapp
+Support: http://ltbh.net/
+Architectures: darwin-arm iphoneos-arm
+Components: main
+Description: 一个可以躺着赚钱的APP。
+MD5Sum:
+ f6d2fd367507c5bc3dd25b80cbca8d29 363 main/binary-darwin-arm/Packages
+ 3b999a139c989b8ec7f2f63def43942d 323 main/binary-darwin-arm/Packages.bz2
+ dbd2833792900ec438bca758f0ad2618 301 main/binary-darwin-arm/Packages.gz
