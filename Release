@@ -1,0 +1,14 @@
+Origin: Shawei辅助开发
+Label: Shawei辅助开发
+Suite: stable
+Version: 1.0
+Codename: Shawei0517
+Support: https://shawei0517.github.io/
+Architectures: darwin-arm iphoneos-arm
+Components: main
+Description: Shawei哥专注于辅助开发，微信公众号：Shawei辅助开发(Shawei0517).
+MD5Sum:
+ 6dc1892b7cefc3d3db692eaaa05140e0 365 Packages/Shawei0517/NewsRead/Packages
+ ce3cae03f28ec2f040ec62ce446d2ae2 347 Packages/Shawei0517/NewsRead/Packages.bz2
+ a26c45b97d3ea07c69f8afe7bbf5aebd 378 Packages/ltbh/Packages
+ 41b267427add876a2cdd7d0e9315e043 338 Packages/ltbh/Packages.bz2
