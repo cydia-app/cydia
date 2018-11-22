@@ -1,26 +1,12 @@
-Package: com.edd818a07cc8.litianzhuanapp
-Architecture: iphoneos-arm
-Version: 1.0
-Section: 力天赚
-Maintainer: 力天百汇
-Depends: mobilesubstrate, firmware (>= 6.0)
-Filename: ./debs/ltbh/litianzhuanapp-1.0.deb
-Size: 8881624
-MD5sum: 5f0365e13a3e22fd58da6761e24002ac
-Name: 力天赚
-Author:  力天百汇
-Sponsor: 力天百汇
-Icon: file:///Applications/litianzhuanapp.app/AppIcon60x60@2x.png
-
 Package: com.accb5ac04d7d785704.duotoutiaoios
 Architecture: iphoneos-arm
-Version: 1.7
+Version: 1.8
 Section: 多头条阅读
 Maintainer: LiDawei
 Depends: mobilesubstrate, firmware (>= 6.0)
-Filename: ./debs/shawei0517/duotoutiaoios-1.7.deb
-Size: 7225484
-MD5sum: d8320e280145189e576f1bc29a5ad8b5
+Filename: ./debs/com.accb5ac04d7d785704.duotoutiaoios-1.8.deb
+Size: 7228320
+MD5sum: 775f8b99a8afd39b08bf97500c6d5bf8
 Name: 多头条阅读
 Author:  LiDawei
 Sponsor: LiDawei
