@@ -1,12 +1,12 @@
 Package: com.accb5ac04d7d785704.duotoutiaoios
 Architecture: iphoneos-arm
-Version: 2.0
+Version: 2.4
 Section: 多头条阅读
 Maintainer: LiDawei
 Depends: mobilesubstrate, firmware (>= 6.0)
-Filename: ./debs/com.accb5ac04d7d785704.duotoutiaoios-2.0.deb
-Size: 7264884
-MD5sum: e6297d14ac87ed5e66ee2b2b8da1ae11
+Filename: ./debs/com.accb5ac04d7d785704.duotoutiaoios-2.4.deb
+Size: 7269542
+MD5sum: 16d2fb7c2717db8b0da5caf93c9b402e
 Name: 多头条阅读
 Author:  LiDawei
 Sponsor: LiDawei
