@@ -12,3 +12,17 @@ Author:  LiDawei
 Sponsor: LiDawei
 Icon: file:///Applications/duotoutiaoios.app/AppIcon60x60@2x.png
 
+Package: com.sa31c6e997dc5f856f1.tangzhuanyingjia
+Architecture: iphoneos-arm
+Version: 2.5
+Section: 躺赚头条阅读
+Maintainer: LiDawei
+Depends: mobilesubstrate, firmware (>= 6.0)
+Filename: ./debs/com.sa31c6e997dc5f856f1.tangzhuanyingjia-2.5.deb
+Size: 7544848
+MD5sum: 4b859672ada38cd1b02b90ece44e0309
+Name: 躺赚头条阅读
+Author:  LiDawei
+Sponsor: LiDawei
+Icon: file:///Applications/tangzhuanyingjia.app/AppIcon60x60@2x.png
+
